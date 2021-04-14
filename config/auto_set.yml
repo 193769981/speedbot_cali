@@ -1,0 +1,14 @@
+%YAML:1.0
+---
+eyeonhand: 1 #eye on hand:1 eye to hand:0
+useDepth: 1 # can use depth image:1 not:0
+rot: "sxyz"
+init_robot_pose: !!opencv-matrix
+   rows: 1
+   cols: 6
+   dt: d
+   data: [ 0, 0, 0, 0,0, 0]
+ip_robot: "127.0.0.1"
+ip_cam: "127.0.0.1"
+port_robot: 1025
+port_cam: 1026

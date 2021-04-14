@@ -1,0 +1,9 @@
+scipy==1.5.2
+opencv_contrib_python==4.4.0.46
+matplotlib==3.3.2
+open3d==0.3.0.0                      £¡
+transforms3d==0.3.1
+numpy==1.19.2
+dt_apriltags==3.1.1                £¡
+pupil_apriltags==1.0.4            £¡
+PyYAML==5.3.1
